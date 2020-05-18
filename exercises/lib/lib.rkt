@@ -1,4 +1,4 @@
-(module lib racket
+(module sicp-lib racket
   (provide inc dec square)
 
   (define (inc x)
